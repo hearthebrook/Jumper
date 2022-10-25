@@ -1,0 +1,15 @@
+/Users/brooklynn/Documents/GitHub/cse210-projects/HangMan/bin/Debug/net6.0/HangMan
+/Users/brooklynn/Documents/GitHub/cse210-projects/HangMan/bin/Debug/net6.0/HangMan.deps.json
+/Users/brooklynn/Documents/GitHub/cse210-projects/HangMan/bin/Debug/net6.0/HangMan.runtimeconfig.json
+/Users/brooklynn/Documents/GitHub/cse210-projects/HangMan/bin/Debug/net6.0/HangMan.dll
+/Users/brooklynn/Documents/GitHub/cse210-projects/HangMan/bin/Debug/net6.0/HangMan.pdb
+/Users/brooklynn/Documents/GitHub/cse210-projects/HangMan/obj/Debug/net6.0/HangMan.csproj.AssemblyReference.cache
+/Users/brooklynn/Documents/GitHub/cse210-projects/HangMan/obj/Debug/net6.0/HangMan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brooklynn/Documents/GitHub/cse210-projects/HangMan/obj/Debug/net6.0/HangMan.AssemblyInfoInputs.cache
+/Users/brooklynn/Documents/GitHub/cse210-projects/HangMan/obj/Debug/net6.0/HangMan.AssemblyInfo.cs
+/Users/brooklynn/Documents/GitHub/cse210-projects/HangMan/obj/Debug/net6.0/HangMan.csproj.CoreCompileInputs.cache
+/Users/brooklynn/Documents/GitHub/cse210-projects/HangMan/obj/Debug/net6.0/HangMan.dll
+/Users/brooklynn/Documents/GitHub/cse210-projects/HangMan/obj/Debug/net6.0/refint/HangMan.dll
+/Users/brooklynn/Documents/GitHub/cse210-projects/HangMan/obj/Debug/net6.0/HangMan.pdb
+/Users/brooklynn/Documents/GitHub/cse210-projects/HangMan/obj/Debug/net6.0/HangMan.genruntimeconfig.cache
+/Users/brooklynn/Documents/GitHub/cse210-projects/HangMan/obj/Debug/net6.0/ref/HangMan.dll
